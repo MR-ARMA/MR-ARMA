@@ -1,10 +1,6 @@
 <div style="background-color: #000000; color: #ffffff; padding: 10px;">
 
-# This is a dark-themed section
 
-This text will be displayed in white on a black background.
-
-</div>
 
 # MR-ARMA
 
@@ -24,4 +20,6 @@ This text will be displayed in white on a black background.
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-ARMA&show_icons=true&locale=en&layout=compact" alt="MR-ARMA" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARMA&" alt="MR-ARMA" />
+</div>
+
 </div>
