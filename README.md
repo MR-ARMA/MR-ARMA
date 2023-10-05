@@ -4,6 +4,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=404_page)
 [![Github](https://img.shields.io/github/followers/MR-ARMA?label=Follow&style=social)](https://github.com/MR-ARMA)
 
+- 🎓 Student of Computer Engineering, [University of Tehran](https://ut.ac.ir/en)
+- 👨‍💻 Learning Python programming
+- 🧠 learning Machine Learning
+
+
+
+
 
 
 <div>
