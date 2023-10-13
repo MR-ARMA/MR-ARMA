@@ -7,7 +7,7 @@
 
 - 🎓 Student of Computer Engineering, [University of Tehran](https://ut.ac.ir/en)
 - 👨‍💻 Learning Python programming
-- 🧠 learning Machine Learning
+- 🧠 Learning Machine Learning
 
 
 
