@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/followers/MR-ARMA?label=Follow&style=social)](https://github.com/MR-ARMA)
 
 - 🎓 Student of Computer Engineering, [University of Tehran](https://ut.ac.ir/en)
-- 👨‍💻 Learning Python programming
+- 👨‍💻 Learning Python Programming
 - 🧠 Learning Machine Learning
 
 
