@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=404_page)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/alireza_mahdiza1)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mrarma)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@alireza-mahdizadeh)
 [![Github](https://img.shields.io/github/followers/MR-ARMA?label=Follow&style=social)](https://github.com/MR-ARMA)
 
 - 🎓 Student of Computer Engineering, [University of Tehran](https://ut.ac.ir/en)
