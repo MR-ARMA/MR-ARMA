@@ -6,10 +6,8 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/alireza_mahdiza1)
 [![Github](https://img.shields.io/github/followers/MR-ARMA?label=Follow&style=social)](https://github.com/MR-ARMA)
 
-<center> 🎓 Student of Computer Engineering, [University of Tehran](https://ut.ac.ir/en)
-
-<center> 👨‍💻 Learning Python Programming
-
+<center> 🎓 Student of Computer Engineering, [University of Tehran](https://ut.ac.ir/en)\\
+<center> 👨‍💻 Learning Python Programming\\
 <center> 🧠 Learning Machine Learning
 
 
