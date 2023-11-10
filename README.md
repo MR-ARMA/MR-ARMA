@@ -10,11 +10,15 @@
 
 </div>
 
+<div align="center">
+  
+🎓 Student of Computer Engineering, <a href="https://ut.ac.ir/en">University of Tehran</a>
 
-- 🎓 Student of Computer Engineering, [University of Tehran](https://ut.ac.ir/en)  
-- 👨‍💻 Learning Python Programming
-- 🧠 Learning Machine Learning
+👨‍💻 Learning Python Programming
 
+🧠 Learning Machine Learning
+
+</div>
 
 
 
