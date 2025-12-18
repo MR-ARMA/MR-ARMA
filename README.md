@@ -1,14 +1,12 @@
-<!-- Minimal. GitHub-compatible, clean, visual -->
 
 <div align="center">
 
-<p style="font-family:'Times New Roman', Times, serif; font-size:18px; font-weight:bold; color:#4F46E5;">MR — ARMA</p>
+<p style="font-family:'Times New Roman', Times, serif; font-size:18px; font-weight:bold; color:#4F46E5;">MR. ARMA</p>
 
 <p style="font-family:'Times New Roman', Times, serif; font-size:12px; color:#6B7280;">Artificial Intelligence · Human Systems · Meaning</p>
 
 <br/>
 
-<!-- Social badges -->
 
 <a href="https://www.linkedin.com/feed/?trk=404_page">
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat&logo=linkedin&logoColor=white" />
